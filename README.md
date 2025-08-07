@@ -64,7 +64,7 @@ Personalized activity suggestions
 
 ### 4. 📓 Journal Page  
 ![Journal Login Page](https://i.postimg.cc/PxKjFGKR/Journal-login-page.jpg)
-![Journal Page] (https://i.postimg.cc/RVkjdV40/Journal-page.jpg) 
+![Journal Page](https://i.postimg.cc/RVkjdV40/Journal-page.jpg)
 Private thought recording interface  
 
 ---
