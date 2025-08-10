@@ -69,12 +69,3 @@ Private thought recording interface
 
 ---
 
-## 🚀 Getting Started
-
-To run Moodverse locally:
-
-```bash
-git clone https://github.com/sonalimahato/Cybernetic_Crusaders_moodverse
-cd Cybernetic_Crusaders_moodverse
-npm install
-npm run dev
